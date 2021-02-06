@@ -1,0 +1,1 @@
+Categories and Subject Descriptors: D.1.3 [Programming Techniques]: Concurrent Programming – parallel programming General Terms: Performance, Algorithms Keywords: Optimization, Cognitive Applications, Parallel Programming, Parallel Algorithms
